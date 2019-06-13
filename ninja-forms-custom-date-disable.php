@@ -6,7 +6,7 @@ Plugin URI: http://devshawon.com/ninja-form-datepicker-date-disable
 Description: Disable Multiple Date for the jQuery UI Datepicker in Ninja Forms
 Version: 3.0
 Author: devShawon
-Author URI: http://devshawon.com
+Author URI: http://devshawon.com 
 
 Copyright (c) 2017 The WP Ninjas/devShawon
 
