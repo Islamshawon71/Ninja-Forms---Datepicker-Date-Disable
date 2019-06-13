@@ -38,12 +38,10 @@ var customDatePickerStuff = Marionette.Object.extend( {
 
                     // 
 
-                    if(day == 4 || day == 1){
+                    if(day == 2 || day == 3  || day == 5  || day == 6   || day == 0 ){
                         // console.log(day);
-                        
-                    }else{
                         disabledDays.push(moment( date ).format("YYYY-MM-DD"));
-                    }
+                    } 
                     
                     //
                  
